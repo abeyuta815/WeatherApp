@@ -35,3 +35,4 @@ E:\WeatherApp\WeatherApp\obj\Release\WeatherApp.csproj.CoreCompileInputs.cache
 E:\WeatherApp\WeatherApp\obj\Release\WeatherApp.csproj.CopyComplete
 E:\WeatherApp\WeatherApp\obj\Release\WeatherApp.exe
 E:\WeatherApp\WeatherApp\obj\Release\WeatherApp.pdb
+E:\WeatherApp\WeatherApp\obj\Release\WeatherApp.csprojAssemblyReference.cache

@@ -193,7 +193,7 @@
             <!--終了ボタン-->
             <Button Content="Close"
                     Foreground="White"
-                    FontSize="12"
+                    FontSize="13"
                     FontWeight="Medium"
                     Margin="0,0,10,0"
                     Grid.Column="8"
@@ -234,7 +234,7 @@
 
             <ComboBox x:Name="comboBoxArea" 
                       SelectedIndex="0" 
-                      ItemsSource="{Binding Area}" 
+                      ItemsSource="{Binding areaList}" 
                       SelectedValuePath="Key" 
                       DisplayMemberPath="Value"  
                       HorizontalAlignment="Left" 
@@ -301,7 +301,7 @@
                            Foreground="White"
                            VerticalAlignment="Center"
                            HorizontalAlignment="Center"/>
-                
+
                 <!--中央天気画像-->
                 <Image Width="250"
                        x:Name="WeatherImageImage"
@@ -382,3 +382,4 @@
 
     </Grid>
 </Window>
+    
